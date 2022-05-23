@@ -7,5 +7,6 @@ https://t.me/Data_Science_Library
 Learning Using Python (2022)
  https://t.me/Data_Science_Library/380
  
- 
+Deep Learning with Structured Data (2021)
+https://t.me/Data_Science_Library/379
  
